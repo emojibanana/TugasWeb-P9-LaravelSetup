@@ -400,7 +400,6 @@ TR9_laravel/
 │   └── ...
 │
 ├── dokumentasi/                         (Screenshot dokumentasi tugas)
-│   ├── Syarat.png
 │   ├── Install composer.png
 │   ├── Buat project.png
 │   ├── konfigurasi .env db.png
@@ -448,7 +447,6 @@ Semua screenshot implementasi dan bukti pemenuhan kriteria tersimpan di folder `
 
 | File | Keterangan |
 |------|-----------|
-| `Syarat.png` | Syarat-syarat tugas yang harus dipenuhi |
 | `Install composer.png` | Bukti instalasi Composer |
 | `Buat project.png` | Bukti pembuatan project Laravel |
 | `konfigurasi .env db.png` | Konfigurasi file .env untuk database |
