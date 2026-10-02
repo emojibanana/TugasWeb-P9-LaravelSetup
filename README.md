@@ -1,7 +1,6 @@
 # Aplikasi Laravel: Tugas Praktik
 
-**Pembuat:** Banna  
-**Tanggal:** 2026  
+**Pembuat:** Ahmad Al Banna   
 **Framework:** Laravel 13.x  
 **Bahasa:** PHP 8.5+
 
@@ -550,15 +549,6 @@ Jika ingin extend aplikasi:
 
 ---
 
-## 👤 Pembuat
-
-**Nama:** Banna  
-**Email:** banna@example.com  
-**Tugas:** Praktik Laravel - Implementasi Routing, Controller, Model, View, dan Database  
-**Tahun:** 2026
-
----
-
 ## 📝 Catatan Penting
 
 Proyek ini merupakan implementasi educational dari konsep-konsep dasar Laravel. Untuk production use, tambahkan:
@@ -603,4 +593,4 @@ Semua file, konfigurasi, dan documentation telah disiapkan untuk mendemonstrasik
 
 ---
 
-**Terima kasih telah membaca dokumentasi ini. Selamat belajar Laravel! 🚀**
+**Cuma Tugas Setup laravel yang baik dan benar! 🚀**
